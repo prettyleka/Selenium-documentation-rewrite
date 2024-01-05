@@ -1,7 +1,8 @@
 repo_name: prettyleka/Selenium-documentation-rewrite
 report_id: e19d05ae0a140e90db1aa6cab22e820a
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T05:31:58+00:00'
+timestamp: '2024-01-05T08:51:45+00:00'
 requested_by: selenium-ci
 provider: github
 branch: gh-pages
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/prettyleka/Selenium-documentation-rewrite
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/prettyleka/Selenium-documentation-rewrite
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/prettyleka/Selenium-documentation-rewrite
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/prettyleka/Selenium-documentation-rewrite/blob/gh-pages/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Andreas Tolfsen
   last_updated_on: 2014-12-27 19:53:29.000000000 Z
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/897/S67KcxKE.png
+  detection_source_url: https://github.com/prettyleka/Selenium-documentation-rewrite/blob/gh-pages/docs_source_files/themes/hugo-theme-learn/wercker.yml
   detection_source: docs_source_files/themes/hugo-theme-learn/wercker.yml
   last_updated_by: Diego Molina
   last_updated_on: 2019-07-16 04:43:32.000000000 Z
@@ -67,6 +73,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/prettyleka/Selenium-documentation-rewrite/blob/gh-pages/docs_source_files/themes/hugo-theme-learn/netlify.toml
   detection_source: docs_source_files/themes/hugo-theme-learn/netlify.toml
   last_updated_by: Diego Molina
   last_updated_on: 2019-07-16 04:43:32.000000000 Z
@@ -79,4 +86,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/prettyleka/Selenium-documentation-rewrite
   detection_source: Repo Metadata
